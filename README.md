@@ -2,5 +2,6 @@
 this is my app
 
 ## test list
-- element 1 
-- element 2
+1. element 1
+    - element nested 1 
+    - element nested 2
