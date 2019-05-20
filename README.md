@@ -5,3 +5,6 @@ this is my app
 1. element 1
     - element nested 1 
     - element nested 2
+
+
+testing **Bold** text
