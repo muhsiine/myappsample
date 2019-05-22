@@ -10,6 +10,9 @@ this is my app
 testing **Bold** text
  
  hello mouhssine thank you for adding me :p
+ 
  master merge
+
  add line
+
  hii
