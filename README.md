@@ -6,7 +6,7 @@ this is my app
     - element nested 1 
     - element nested 2
 
-hellow
+hellow 
 testing **Bold** text
  
  hello mouhssine thank you for adding me :p
